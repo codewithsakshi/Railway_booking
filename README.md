@@ -68,3 +68,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Instructions
+# Hosting URL => https://625a41780fc57239ec1a667f--quiet-snickerdoodle-759087.netlify.app/
+
+
+#### for ticket booking => action Type => newBooking , cancelBooking
+### First of all create a function to reserve a ticket booking.
+### create a function for cancellation ticket booking.
+
+## Cancellation contains some Information.
+1. Id of Person.
+2. Name of Person.
+3. Mobile Number of Person.
+
+## Reservation Histroy contains
+1. Id of Person.
+2. Name of Person.
+3. Mobile Number of Person.
+
+### we also need to create Accounting function for manage the account balance of the reservation.
